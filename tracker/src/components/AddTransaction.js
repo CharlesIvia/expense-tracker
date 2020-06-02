@@ -15,9 +15,9 @@ function AddTransaction() {
       text,
       amount: +amount,
     };
-
     addTransaction(newTransaction);
   };
+
   return (
     <div>
       <h3>Add new transaction</h3>
@@ -33,8 +33,7 @@ function AddTransaction() {
         </div>
         <div className="form-control">
           <label htmlFor="amount">
-            Amount <br />
-            (negative - expense, positive - income)
+            Amount <br />[ positive - income, negative - expense ]
           </label>
           <input
             type="number"

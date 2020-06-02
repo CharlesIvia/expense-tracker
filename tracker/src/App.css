@@ -3,10 +3,16 @@
 :root {
   --box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 }
-
-* {
-  box-sizing: border-box;
-}
+/* .app {
+  height: 95vh;
+  width: 50vh;
+  border: 1px solid rgb(109, 107, 107);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  margin-top: 5vh;
+  margin-bottom: 3vh;
+  border-bottom: none;
+} */
 
 body {
   background-color: #f7f7f7;
@@ -14,9 +20,9 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-height: 100vh;
-  margin: 0;
+  min-height: 90vh;
   font-family: "Lato", sans-serif;
+  margin: 0;
 }
 
 .container {
@@ -27,6 +33,14 @@ body {
 h1 {
   letter-spacing: 1px;
   margin: 0;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-size: 20px;
 }
 
 h3 {
@@ -47,6 +61,14 @@ h4 {
   display: flex;
   justify-content: space-between;
   margin: 20px 0;
+  border-radius: 7px;
+}
+
+.balance {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 16px;
 }
 
 .inc-exp-container > div {
@@ -75,6 +97,7 @@ h4 {
 label {
   display: inline-block;
   margin: 10px 0;
+  font-weight: 600;
 }
 
 input[type="text"],
@@ -98,6 +121,10 @@ input[type="number"] {
   margin: 10px 0 30px;
   padding: 10px;
   width: 100%;
+}
+
+.btn:hover {
+  background-color: rgb(42, 100, 226);
 }
 
 .btn:focus,
