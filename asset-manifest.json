@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/CharlesIvia/expense-tracker/static/css/main.6b74f544.chunk.css",
-    "main.js": "/CharlesIvia/expense-tracker/static/js/main.fda4756e.chunk.js",
-    "main.js.map": "/CharlesIvia/expense-tracker/static/js/main.fda4756e.chunk.js.map",
-    "runtime-main.js": "/CharlesIvia/expense-tracker/static/js/runtime-main.fdf15b5e.js",
-    "runtime-main.js.map": "/CharlesIvia/expense-tracker/static/js/runtime-main.fdf15b5e.js.map",
-    "static/js/2.96c65e06.chunk.js": "/CharlesIvia/expense-tracker/static/js/2.96c65e06.chunk.js",
-    "static/js/2.96c65e06.chunk.js.map": "/CharlesIvia/expense-tracker/static/js/2.96c65e06.chunk.js.map",
-    "index.html": "/CharlesIvia/expense-tracker/index.html",
-    "precache-manifest.7b5f23dd92e8e44345d908841cc73acf.js": "/CharlesIvia/expense-tracker/precache-manifest.7b5f23dd92e8e44345d908841cc73acf.js",
-    "service-worker.js": "/CharlesIvia/expense-tracker/service-worker.js",
-    "static/css/main.6b74f544.chunk.css.map": "/CharlesIvia/expense-tracker/static/css/main.6b74f544.chunk.css.map",
-    "static/js/2.96c65e06.chunk.js.LICENSE.txt": "/CharlesIvia/expense-tracker/static/js/2.96c65e06.chunk.js.LICENSE.txt"
+    "main.css": "/CharlesIvia.github.io/expense-tracker/static/css/main.6b74f544.chunk.css",
+    "main.js": "/CharlesIvia.github.io/expense-tracker/static/js/main.fda4756e.chunk.js",
+    "main.js.map": "/CharlesIvia.github.io/expense-tracker/static/js/main.fda4756e.chunk.js.map",
+    "runtime-main.js": "/CharlesIvia.github.io/expense-tracker/static/js/runtime-main.c2fdd5c0.js",
+    "runtime-main.js.map": "/CharlesIvia.github.io/expense-tracker/static/js/runtime-main.c2fdd5c0.js.map",
+    "static/js/2.96c65e06.chunk.js": "/CharlesIvia.github.io/expense-tracker/static/js/2.96c65e06.chunk.js",
+    "static/js/2.96c65e06.chunk.js.map": "/CharlesIvia.github.io/expense-tracker/static/js/2.96c65e06.chunk.js.map",
+    "index.html": "/CharlesIvia.github.io/expense-tracker/index.html",
+    "precache-manifest.5e190794e52ae27420740947592142a8.js": "/CharlesIvia.github.io/expense-tracker/precache-manifest.5e190794e52ae27420740947592142a8.js",
+    "service-worker.js": "/CharlesIvia.github.io/expense-tracker/service-worker.js",
+    "static/css/main.6b74f544.chunk.css.map": "/CharlesIvia.github.io/expense-tracker/static/css/main.6b74f544.chunk.css.map",
+    "static/js/2.96c65e06.chunk.js.LICENSE.txt": "/CharlesIvia.github.io/expense-tracker/static/js/2.96c65e06.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fdf15b5e.js",
+    "static/js/runtime-main.c2fdd5c0.js",
     "static/js/2.96c65e06.chunk.js",
     "static/css/main.6b74f544.chunk.css",
     "static/js/main.fda4756e.chunk.js"
